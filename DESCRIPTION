@@ -7,4 +7,4 @@ Date: 2016-01-10
 Author: Ryan Patrick Kyle (and others)
 Maintainer: Ryan Patrick Kyle <ryan.kyle@mail.mcgill.ca>
 Description: Collection of various R functions for analyses of health data.
-License: GPL
+License: MIT
