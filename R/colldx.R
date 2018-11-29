@@ -1,5 +1,5 @@
 colldx <- function (mod, digits=3) {
-  # based on the collingenmodv9c.sas by Matthew Zack and modified by Jim Singleton and
+  # based on collingenmodv9c.sas by Matthew Zack and modified by Jim Singleton and
   # colldiag from John Hendrickx's perturb package, original function written by Beau Bruce
   result <- NULL
   
