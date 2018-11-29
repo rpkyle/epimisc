@@ -10,11 +10,11 @@ The \code{colldx} function implements the Belsley, Kuh, and Welsch approach to d
 colldx(mod, digits)
 }
 \arguments{
-  \item{model}{
+  \item{mod}{
 a model object for one of several supported model classes. 
 }
   \item{digits}{
-minimal number of significant digits, see \link{\code{print.default}}.
+minimal number of significant digits, see \code{\link{print.default}}.
 }
 }
 \details{
