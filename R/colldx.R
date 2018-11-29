@@ -1,6 +1,6 @@
 colldx <- function (mod, digits=3) {
-  # based on the collingenmodv9c.sas by Mathew Zack and modified by Jim Singleton and
-  # colldiag from John Hendrickx's perturb package, function written by Beau Bruce
+  # based on the collingenmodv9c.sas by Matthew Zack and modified by Jim Singleton and
+  # colldiag from John Hendrickx's perturb package, original function written by Beau Bruce
   result <- NULL
   
   if ("geeglm" %in% class(mod)) {
