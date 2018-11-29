@@ -16,6 +16,7 @@ a model object for one of several supported model classes.
   \item{digits}{
 minimal number of significant digits, see \link{\code{print.default}}.
 }
+}
 \details{
 The \code{colldx} function is the R version of a SAS macro originally titled \code{collingenmodv9c}. Beau Bruce adapted the \code{colldiag} function from the \code{perturb} package to compute condition indices as in Matthew Zack's SAS macro.
 
